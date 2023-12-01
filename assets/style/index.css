@@ -73,6 +73,12 @@ h1 {
     justify-content: center;
 }
 
+.img-box {
+    width: 15%;
+    display: flex;
+    justify-content: end;
+}
+
 .profile-img {
     width: 36px;
     height: 36px;
